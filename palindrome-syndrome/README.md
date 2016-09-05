@@ -8,5 +8,3 @@ Write the most efficient function you can that determines whether a given string
 Your function should accept a string as a parameter and return a boolean (true if the string is a palindrome, false if it is not).
 
 Assume that this code will be put into a real production system and write accordingly.
-
-## [Source - Dev Mastery on Medium](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hkflykyws)
