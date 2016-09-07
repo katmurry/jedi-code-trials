@@ -55,6 +55,8 @@ function checkCoupon(enteredCode, correctCode, currentDate, expirationDate){
     return false;
   }
 }
+
+//test cases - uncomment to run code
 // checkCoupon('123','123','September 5, 2014','October 1, 2014'); //true - valid
 // checkCoupon('123a','123','September 5, 2014','October 1, 2014'); //false - not valid
 // checkCoupon('123','123','October 1, 2014','October 1, 2014'); //true - valid
