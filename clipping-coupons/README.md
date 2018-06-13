@@ -7,4 +7,4 @@ Write a function called checkCoupon to verify that a coupon is valid and not exp
 
 A coupon expires at the END of the expiration date. All dates will be passed in as strings in this format: "June 15, 2014"
 
-## [Source - Code Wars](https://www.codewars.com/kata/the-coupon-code/train/javascript)
+## [Source - Codewars](https://www.codewars.com/kata/the-coupon-code/train/javascript)
